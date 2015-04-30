@@ -2,7 +2,7 @@
   "name": "rjs-extender",
   "version": "0.0.1",
   "description": "rjs-extender",
-  "main": "app.js",
+  "main": "extender.js",
   "author": {
     "name": "Nick Antonov, Dan Tanzer",
     "email": "dantanzer@eikospartners.com"
