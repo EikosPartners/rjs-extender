@@ -1,0 +1,15 @@
+{
+  "name": "rjs-extender",
+  "version": "0.0.1",
+  "description": "rjs-extender",
+  "main": "app.js",
+  "author": {
+    "name": "Nick Antonov, Dan Tanzer",
+    "email": "dantanzer@eikospartners.com"
+  },
+  "dependencies": {
+    "escodegen": "^1.6.1",
+    "esprima": "^2.2.0",
+    "lodash": "^3.7.0"
+  }
+}
